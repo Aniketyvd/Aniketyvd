@@ -1,33 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#141321">
-        <animate attributeName="stop-color" values="#141321;#1f1b3a;#141321" dur="8s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#1f1b3a">
-        <animate attributeName="stop-color" values="#1f1b3a;#141321;#1f1b3a" dur="8s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#fe428e"/>
-      <stop offset="100%" stop-color="#00d8ff"/>
-    </linearGradient>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
+<div align="center">
 
-  <rect width="1200" height="320" rx="18" fill="url(#bgGrad)"/>
-  <rect x="2" y="2" width="1196" height="316" rx="18" fill="none" stroke="url(#textGrad)" stroke-width="1.5" opacity="0.5"/>
+<img
+src="https://capsule-render.vercel.app/api?type=blur&height=300&text=ANIKET%20YADAV&fontSize=65&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=63&descSize=22&color=gradient&customColorList=31,24,18,6,4,2"
+width="100%"
+alt="Aniket Yadav Banner"/>
 
-  
+</div>
+
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1333782637533204490) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-yadav-569995302) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Anii) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniketyvd@gmail.com) 
+
  
-# 💫 Hi 👋, I'm Aniket:
 💻 Code • Create • Innovate<br>🤖 AI | Robotics | Emerging Tech Explore<br>🧠 Fueled by curiosity & driven by innovation<br>🌱 Forever curious, forever learning
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1333782637533204490) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-yadav-569995302) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Anii) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniketyvd@gmail.com) 
