@@ -23,9 +23,10 @@ alt="Aniket Yadav Banner"/>
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Anixen&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Anixen&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Anixen&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=Aniketyvd&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Aniketyvd&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aniketyvd&theme=radical&hide_border=true&include_all_commits=false&count_private=false) 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Anixen&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ### ✍️ Random Dev Quote
