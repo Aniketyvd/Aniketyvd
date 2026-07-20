@@ -1,25 +1,22 @@
  
  <!-- ========================= FUTURISTIC HERO SECTION ========================= -->
 
+ <div align="center">
+
+<img src="./assets/bannermain.png" width="100%" alt="Aniket Yadav Bannermain">
+
+</div>
  
  
  
+
  
-
-</td>
-
-<td width="50%" align="right" valign="middle">
-
-<img src="./assets/banner.gif.gif" width="100%" alt="Cyberpunk Banner"/>
-
-</td>
-
 </tr>
 </table>
 
-<!-- ========================= ABOUT ME ========================= -->
+ 
 
-<h2 align="center">🧬 About Me</h2>
+<!--<h2 align="center">🧬 About Me</h2>-->
 
 <div align="center">
 
