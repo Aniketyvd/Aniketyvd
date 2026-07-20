@@ -103,14 +103,20 @@ Building:
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Aniketyvd&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Aniketyvd&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Anixen&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+# 📊 GitHub Stats: 
+[](https://github-readme-stats.shion.dev/api?username=Aniketyvd&theme=radical&hide_border=true&include_all_commits=false&count_private=false&cache_seconds=0)<br/>
+![](https://streak-stats.demolab.com/?user=Aniketyvd&theme=radical&hide_border=true&cache_seconds=0)<br/>
+<!--![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aniketyvd&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact&cache_seconds=0)
+ 
+<!--![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aniketyvd&theme=radical&hide_border=true&layout=compact&cache_seconds=0&include_all_commits=true&count_private=true)
+
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Anixen&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)-->
+
+ 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Anixen&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
