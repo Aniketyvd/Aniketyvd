@@ -33,14 +33,19 @@
 
 <img align="right" alt="AI" width="360" img src="./assets/banner.gif.gif" width="100%" alt="Cyberpunk Banner"/>
 
+
 ### 🌌 Digital Identity
+
 
 * 🧠 Designing **AI systems** that learn, adapt, and evolve.
 * 🤖 Exploring the intersection of **Robotics + Artificial Intelligence**.
 * ⚡ Creating **futuristic applications** with immersive user experiences.
 * 🔬 Passionate about **Computer Vision, Deep Learning, and Automation**.
+* 🤖 Only the subtitle below changes with a typing animation.
+
 ---
- 
+  <img align="right" alt="AI" width="340" img src="./assets/banner.gif.gif" width="100%" alt="Cyberpunk Banner"/>
+
 ### 🎯 Current Mission
 
 ```yaml
