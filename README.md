@@ -31,22 +31,22 @@
 
 </div>
 
-<img align="right" alt="AI" width="360" img src="./assets/banner.gif.gif" width="100%" alt="Cyberpunk Banner"/>
+<img align="left" alt="AI" width="360" img src="./assets/banner.gif.gif" width="100%" alt="Cyberpunk Banner"/>
 
 
-### 🌌 Digital Identity
+   🌌 Digital Identity
 
 
-* 🧠 Designing **AI systems** that learn, adapt, and evolve.
-* 🤖 Exploring the intersection of **Robotics + Artificial Intelligence**.
-* ⚡ Creating **futuristic applications** with immersive user experiences.
-* 🔬 Passionate about **Computer Vision, Deep Learning, and Automation**.
-* 🤖 Only the subtitle below changes with a typing animation.
+    * 🧠 Designing **AI systems** that learn, adapt, and evolve.
+    * 🤖 Exploring the intersection of **Robotics + Artificial Intelligence**.
+    * ⚡ Creating **futuristic applications** with immersive user experiences.
+    * 🔬 Passionate about **Computer Vision, Deep Learning, and Automation**.
+    * 🤖 Only the subtitle below changes with a typing animation.
 
 ---
-  <img align="right" alt="AI" width="340" img src="./assets/banner.gif.gif" width="100%" alt="Cyberpunk Banner"/>
-
-### 🎯 Current Mission
+ <img align="right" alt="AI" width="600" img src="./assets/banner2.gif" width="100%" alt="Cyberpunk Banner2"/>
+ 
+ ### 🎯 Current Mission
 
 ```yaml
 Learning:
@@ -61,10 +61,6 @@ Building:
   - Automation systems
   - Creative developer tools
   - Futuristic interfaces
-
-Vision:
-  Create technology that feels less like software
-  and more like an intelligent companion.
 ```
 
 ---
@@ -75,7 +71,7 @@ Vision:
 
 ---
 
-### 🚀 Beyond the Terminal
+<!--### 🚀 Beyond the Terminal
 
 <div align="center">
 
@@ -83,9 +79,7 @@ Vision:
 | ----------- | ---------- | ----------------- | ------------- |
 | AI Research | Robotics   | UI/UX Experiments | Emerging Tech |
 
-</div>
-
----
+</div>--->
 
 <div align="center">
 
