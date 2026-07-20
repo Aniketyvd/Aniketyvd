@@ -1,12 +1,97 @@
+ 
+ <!-- ========================= FUTURISTIC HERO SECTION ========================= -->
+
+ 
+ 
+ 
+ 
+
+</td>
+
+<td width="50%" align="right" valign="middle">
+
+<img src="./assets/banner.gif.gif" width="100%" alt="Cyberpunk Banner"/>
+
+</td>
+
+</tr>
+</table>
+
+<!-- ========================= ABOUT ME ========================= -->
+
+<h2 align="center">🧬 About Me</h2>
+
 <div align="center">
 
-<img
-src="https://capsule-render.vercel.app/api?type=blur&height=300&text=ANIKET%20YADAV&fontSize=65&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=63&descSize=22&color=gradient&customColorList=31,24,18,6,4,2"
-width="100%"
-alt="Aniket Yadav Banner"/>
+```text
+╔══════════════════════════════════════════════════════════════╗
+║  I don’t just write code — I architect intelligent futures. ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
+<img align="right" alt="AI" width="360" img src="./assets/banner.gif.gif" width="100%" alt="Cyberpunk Banner"/>
+
+### 🌌 Digital Identity
+
+* 🧠 Designing **AI systems** that learn, adapt, and evolve.
+* 🤖 Exploring the intersection of **Robotics + Artificial Intelligence**.
+* ⚡ Creating **futuristic applications** with immersive user experiences.
+* 🔬 Passionate about **Computer Vision, Deep Learning, and Automation**.
+---
+ 
+### 🎯 Current Mission
+
+```yaml
+Learning:
+  - Artificial Intelligence
+  - Machine Learning
+  - Robotics
+  - Computer Vision
+  - Deep Learning
+
+Building:
+  - AI-powered applications
+  - Automation systems
+  - Creative developer tools
+  - Futuristic interfaces
+
+Vision:
+  Create technology that feels less like software
+  and more like an intelligent companion.
+```
+
+---
+
+ 
+
+</div>
+
+---
+
+### 🚀 Beyond the Terminal
+
+<div align="center">
+
+| 🧠 Thinker  | 🤖 Builder | 🎨 Creator        | 🌌 Explorer   |
+| ----------- | ---------- | ----------------- | ------------- |
+| AI Research | Robotics   | UI/UX Experiments | Emerging Tech |
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ *Turning imagination into intelligent reality.*
+
+</div>
+
+
+
+
+ 
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1333782637533204490) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-yadav-569995302) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Anii) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniketyvd@gmail.com) 
 
