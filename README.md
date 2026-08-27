@@ -46,7 +46,6 @@
 <td width="100%" valign="center">
  
  ### 🎯 Current Mission
- 
 ```yaml
 Learning:
   - Artificial Intelligence
