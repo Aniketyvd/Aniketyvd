@@ -41,7 +41,7 @@
     * 🤖 Only the subtitle below changes with a typing animation.
 
 ---
- <img align="right" alt="AI" width="300" img src="./assets/aniket.gif" width="100%" alt="Cyberpunk aniket"/>
+ <img align="right" alt="AI" width="400" img src="./assets/aniket.gif" width="100%" alt="Cyberpunk aniket"/>
  
  ### 🎯 Current Mission
 
