@@ -30,23 +30,23 @@
 
 <img align="left" alt="AI" width="360" img src="./assets/aniket.gif" width="100%" alt="Cyberpunk aniket"/>
 
-
 🌌 Digital Identity
+```yaml
 
 * 🧠 Designing **AI systems** that learn, adapt, and evolve.
 * 🤖 Exploring the intersection of **Robotics + Artificial Intelligence**.
 * ⚡ Creating **futuristic applications** with immersive user experiences.
 * 🔬 Passionate about **Computer Vision, Deep Learning, and Automation**.
 * 🤖 Only the subtitle below changes with a typing animation.
-
+```
 ---
-
-<img align="right" alt="AI" width="420"  img src="./assets/banner.gif.gif" width="100%" alt="Cyberpunk  Banner"/>
  
-
+<table>
+<tr>
+<td width="100%" valign="center">
  
  ### 🎯 Current Mission
-
+ 
 ```yaml
 Learning:
   - Artificial Intelligence
@@ -60,10 +60,19 @@ Building:
   - Automation systems
   - Creative developer tools
   - Futuristic interfaces
+
 ```
+ 
+</td>
 
----
+<td width="100%" align="center" valign="center">
 
+<img src="./assets/banner.gif.gif" width="360px" alt="Cyberpunk Banner">
+
+</td>
+</tr>
+</table>
+ 
  
 
 </div>
