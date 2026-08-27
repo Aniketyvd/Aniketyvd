@@ -31,14 +31,13 @@
 <img align="left" alt="AI" width="360" img src="./assets/aniket.gif" width="100%" alt="Cyberpunk aniket"/>
 
 
-   🌌 Digital Identity
+🌌 Digital Identity
 
-
-    * 🧠 Designing **AI systems** that learn, adapt, and evolve.
-    * 🤖 Exploring the intersection of **Robotics + Artificial Intelligence**.
-    * ⚡ Creating **futuristic applications** with immersive user experiences.
-    * 🔬 Passionate about **Computer Vision, Deep Learning, and Automation**.
-    * 🤖 Only the subtitle below changes with a typing animation.
+* 🧠 Designing **AI systems** that learn, adapt, and evolve.
+* 🤖 Exploring the intersection of **Robotics + Artificial Intelligence**.
+* ⚡ Creating **futuristic applications** with immersive user experiences.
+* 🔬 Passionate about **Computer Vision, Deep Learning, and Automation**.
+* 🤖 Only the subtitle below changes with a typing animation.
 
 ---
 
