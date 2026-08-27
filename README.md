@@ -42,7 +42,7 @@
 
 ---
 
-<img align="right" alt="AI" width="460"  img src="./assets/banner.gif.gif" width="100%" alt="Cyberpunk  Banner"/>
+<img align="right" alt="AI" width="420"  img src="./assets/banner.gif.gif" width="100%" alt="Cyberpunk  Banner"/>
  
 
  
