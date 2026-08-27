@@ -28,7 +28,7 @@
 
 </div>
 
-<img align="left" alt="AI" width="360" img src="./assets/banner.gif.gif" width="100%" alt="Cyberpunk Banner"/>
+<img align="left" alt="AI" width="360" img src="./assets/aniket.gif" width="100%" alt="Cyberpunk aniket"/>
 
 
    🌌 Digital Identity
@@ -41,7 +41,10 @@
     * 🤖 Only the subtitle below changes with a typing animation.
 
 ---
- <img align="right" alt="AI" width="410" img src="./assets/aniket.gif" width="100%" alt="Cyberpunk aniket"/>
+
+<img align="right" alt="AI" width="560"  img src="./assets/banner.gif.gif" width="100%" alt="Cyberpunk  Banner"/>
+ 
+
  
  ### 🎯 Current Mission
 
